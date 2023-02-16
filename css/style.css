@@ -18,8 +18,6 @@ h1, h2, h3, h4, h5, h6, p {
      padding-top: 30px;
      padding-bottom: 30px;
 }
-
-
 .box{
     width: 20px;
     height: 20px;
@@ -27,7 +25,7 @@ h1, h2, h3, h4, h5, h6, p {
     box-shadow: inset 10px 10px 0px 0px rgb(19, 72, 73);
     background-color: rgb(37, 112, 113) ;
     position: absolute;
-    left:150px;
+    left:120px;
     top:35px;
     overflow: hidden;
 }
@@ -38,11 +36,15 @@ h1, h2, h3, h4, h5, h6, p {
     text-align: center;
     opacity: 0.7;
     position: absolute;
-    top: 10px;
-    
+    top: 5px;
+    right: 40px;
+    left: 900px ;
     color: white ;
-    background-color: rgb(155, 226, 233);
     line-height: 0.901;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 50px;
 }
 .main_images{
     background-image: url(/image/ph-1.jpg);
@@ -65,7 +67,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 .service_number{
     color:rgb(240, 82, 25);
-    font-size: 50px;
+    font-size: 100px;
     font-weight: bolder;
 }
 
