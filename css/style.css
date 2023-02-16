@@ -31,19 +31,44 @@ h1, h2, h3, h4, h5, h6, p {
 }
 /* service part css start */
 .service_name{
-    padding-top: 40px;
+    padding-top: 50px;
     padding-left: 25px;
+}
+.our_service{
+    text-align: center;
+    color:rgb(37, 112, 113) ;
+}
+.services_heading{
+    color:rgb(37, 112, 113);
+}
+.service_number{
+    color:rgb(240, 82, 25);
+    font-size: 50px;
+    font-weight: bolder;
 }
 
 
 /* about us part css start */
+.about{
+    color: white;
+    margin-right: 30px;
+    margin-left: 10px;
+}
+.data_name{
+    text-align: center;
+    padding-bottom: 20px;
+}
 .about_us{
-    /* background-color: rgba(9, 55, 9, 0.474); */
-    background-color: rgb(123, 163, 141);
+    background-color: rgb(37, 112, 113);
+    padding: 30px 25px 30px 25px;
 }
 .contact_us{
-    background-color: rgb(200, 79, 23);
+    background-color: rgb(240, 82, 25);
+    padding: 30px 25px 30px 25px;
 }
 .website{
     background-color: rgb(173, 212, 210);
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
