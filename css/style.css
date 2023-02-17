@@ -96,3 +96,6 @@ h1, h2, h3, h4, h5, h6, p {
     padding-top: 25px;
     padding-bottom: 25px;
 }
+.footer{
+    border:10px solid rgb(240, 82, 25);
+}
